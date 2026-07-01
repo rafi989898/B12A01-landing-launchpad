@@ -18,6 +18,18 @@
 	border: none;
 }
 
+.heading-color {
+	color: #252432;
+}
+
+
+/* header section */
+
+
+header {
+	background-image: url("../styles/assets/Hero-bg.png");
+}
+
 
 /* nav section */
 
@@ -37,4 +49,24 @@ nav {
 nav a {
 	font-size: 16px;
 	font-weight: bold;
+}
+
+
+/* banner section */
+
+
+.banner {
+	max-width: 905px;
+	margin: 0 267.5px 0 267.5px;
+	text-align: center;
+}
+
+.banner-hading {
+	font-size: 65px;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+.ban-but {
+	margin-top: 37px;
 }
