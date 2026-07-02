@@ -57,7 +57,7 @@ nav a {
 
 .banner {
 	max-width: 905px;
-	margin: 0 267.5px 0 267.5px;
+	margin: 0 267.5px 152px 267.5px;
 	text-align: center;
 }
 
@@ -69,4 +69,42 @@ nav a {
 
 .ban-but {
 	margin-top: 37px;
+}
+
+
+/* main section */
+
+
+main {
+	max-width: 1140px;
+	margin: 0 auto;
+}
+
+
+/* Action Section */
+
+
+.action {
+	display: flex;
+	justify-content: space-between;
+	marign-top: 116px;
+}
+
+.action-left {
+	max-width: 517px;
+}
+
+.action-title {
+	font-size: 42px;
+	font-weight: bold;
+}
+
+.action-subtitle {
+	font-size: 24px;
+	color: #252432;
+}
+
+.action-image {
+	width: 403px;
+	border-radius: 48px;
 }
