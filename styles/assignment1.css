@@ -22,6 +22,10 @@
 	color: #252432;
 }
 
+.bg-first {
+	background-color: rgba(78, 71, 255, 0.1);
+}
+
 
 /* header section */
 
@@ -87,7 +91,7 @@ main {
 .action {
 	display: flex;
 	justify-content: space-between;
-	marign-top: 116px;
+	margin-top: 116px;
 }
 
 .action-left {
@@ -107,4 +111,45 @@ main {
 .action-image {
 	width: 403px;
 	border-radius: 48px;
+}
+
+
+/* Productive Users Section */
+
+
+.Productive-Users {
+	align-items: center;
+	margin-top: 116px;
+	padding: 50px 142px;
+	border-radius: 24px;
+}
+
+.Productive-Users-title {
+	color: #252432;
+	font-size: 38px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.Users {
+	display: flex;
+	justify-content: space-around;
+	gap: 158px;
+}
+
+.User {
+	align-items: center;
+}
+
+.numbers {
+	color: #4E47FF;
+	font-size: 80px;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+.subject {
+	color: #000000;
+	font-size: 20px;
+	margin-top: 0;
 }
