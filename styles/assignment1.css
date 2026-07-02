@@ -217,3 +217,36 @@ main {
 	font-size: 16px;
 	margin-top: 0;
 }
+
+
+/* focus section */
+
+
+.focus {
+	text-align: center;
+	margin-top: 137px;
+	border-radius: 14px;
+	box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.1);
+	/* padding: auto 71px; */
+}
+
+.focus-title {
+	color: #000000;
+	font-size: 50px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	padding-top: 71px;
+}
+
+.focus-subtitle {
+	font-size: 16px;
+	margin-top: 0;
+	color: rgba(0, 0, 0, 0.5)
+}
+
+.focus-pic {
+	width: 840px;
+	border-radius: 48px;
+	margin-top: 20px;
+	margin-bottom: 71px;
+}
