@@ -250,3 +250,74 @@ main {
 	margin-top: 20px;
 	margin-bottom: 71px;
 }
+
+
+/* touch section */
+
+
+
+.touch {
+	display: flex;
+	margin-top: 92.33px;
+	gap: 115px;
+}
+
+.touch-title {
+	color: #000000;
+	font-size: 97px;
+	font-weight: bold;
+}
+
+.touch-coulm {
+	width: 50%;
+}
+
+.Label {
+	margin-bottom: 19px;
+}
+
+.label-title {
+	color: #000000;
+	font-size: 18px;
+	margin-bottom: 0px;
+}
+
+input[type="text"], input[type="email"] {
+	height: 70px;
+	border-radius: 10px;
+	background-color: #FFFFFF;
+	color: rgba(0, 0, 0, 0.5);
+	margin-top: 0px;
+	display: block;
+	width: 100%;
+	padding: 20px 32px;
+	border: none;
+	box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.1);
+}
+
+input[type="submit"] {
+	height: 70px;
+	border-radius: 10px;
+	background-color: #4E47FF;
+	color: #FFFFFF;
+	margin-top: 0px;
+	display: block;
+	width: 100%;
+	padding: 20px 32px;
+	border: none;
+	box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+}
+
+textarea {
+	height: 140px;
+	border-radius: 10px;
+	background-color: #FFFFFF;
+	color: rgba(0, 0, 0, 0.5);
+	margin-top: 0px;
+	display: block;
+	width: 100%;
+	padding: 20px 32px;
+	border: none;
+	box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.1);
+}
